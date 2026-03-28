@@ -12,7 +12,7 @@ adjust-cell-height = 6
 
 
 # Theme
-# Catppuccin: soft, low-saturation, auto light/dark
+# Kanagawa: soft, low-saturation, auto light/dark
 theme = dark:Kanagawa Wave,light:Kanagawa Light
 background-opacity = 0.95
 window-theme = auto
