@@ -31,7 +31,7 @@ Requires [Oh My Zsh](https://ohmyz.sh/):
 | Plugin | Description |
 | ------ | ----------- |
 | `git` | Aliases & completions |
-| `rust` / `cargo` | Rust toolchain support |
+| `rust` | Rust toolchain support |
 | `zsh-autosuggestions` | History suggestions |
 | `zsh-syntax-highlighting` | Syntax highlighting |
 
