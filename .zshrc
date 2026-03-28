@@ -1,3 +1,6 @@
+# ZSH theme
+ZSH_THEME="agnoster"
+
 # oh-my-zsh plugins
 plugins=(
   git
