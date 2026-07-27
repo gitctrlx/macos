@@ -6,14 +6,14 @@
 
 # Typography
 font-family = Maple Mono NF CN
-font-size = 15
+font-size = 13
 font-thicken = true
 adjust-cell-height = 6
 
 
 # Theme
 # Kanagawa: soft, low-saturation, auto light/dark
-theme = dark:Kanagawa Wave,light:Kanagawa Light
+theme = dark:Kanagawa Wave,light:Kanagawa Lotus
 background-opacity = 0.95
 window-theme = auto
 
